@@ -1,0 +1,17 @@
+h1 {
+    background: lightgreen;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+body {
+    padding: 0 100px 0 100px;
+}
+
+.especial {
+  color: red;
+  border: 1px solid blue;
+  padding: 10px;
+  border-radius: 10px;
+}
