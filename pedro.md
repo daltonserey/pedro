@@ -12,6 +12,7 @@ E como fazer _bullet lists_?
 - assim
 - este
 - é um exemplo
+- mais um exemplo
 
 E também pode ter _numbered lists_.
 Assim:
